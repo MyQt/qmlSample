@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>../../../Pictures/龙珠18号.png</file>
+        <file>../../../Pictures/壁纸/ta.jpg</file>
+    </qresource>
+</RCC>
